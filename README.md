@@ -1,2 +1,0 @@
-# bootcampReactAticma
-challenge
