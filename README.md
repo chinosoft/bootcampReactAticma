@@ -1,4 +1,4 @@
-# bootcamp React Aticma / Devplace
+# Bootcamp React Aticma / Devplace
 challenge
 
 Ejercicios javascript en carpeta javascript
